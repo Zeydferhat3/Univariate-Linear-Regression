@@ -1,5 +1,11 @@
-## Data Source
+## Dataset Information
 
-The dataset used in this project is the "Auto MPG Dataset." The original dataset from the following source:
+- **Title:** Auto-Mpg Data
+- **Sources:** 
+  - Kaggle: [Auto-mpg dataset on Kaggle](https://www.kaggle.com/datasets/uciml/autompg-dataset)
+  - UCI Machine Learning Repository: [Auto MPG Dataset](https://archive.ics.uci.edu/ml/datasets/auto+mpg)
 
-Quinlan,R.. (1993). Auto MPG. UCI Machine Learning Repository. https://doi.org/10.24432/C5859H.
+## Attribution
+
+- Dataset Citation:
+     Quinlan,R.. (1993). Auto MPG. UCI Machine Learning Repository. https://doi.org/10.24432/C5859H.
